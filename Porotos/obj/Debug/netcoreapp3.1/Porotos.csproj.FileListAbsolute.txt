@@ -1,0 +1,13 @@
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\obj\Debug\netcoreapp3.1\Porotos.csprojAssemblyReference.cache
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\obj\Debug\netcoreapp3.1\Porotos.AssemblyInfoInputs.cache
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\obj\Debug\netcoreapp3.1\Porotos.AssemblyInfo.cs
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\obj\Debug\netcoreapp3.1\Porotos.csproj.CoreCompileInputs.cache
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\bin\Debug\netcoreapp3.1\Porotos.exe
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\bin\Debug\netcoreapp3.1\Porotos.deps.json
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\bin\Debug\netcoreapp3.1\Porotos.runtimeconfig.json
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\bin\Debug\netcoreapp3.1\Porotos.runtimeconfig.dev.json
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\bin\Debug\netcoreapp3.1\Porotos.dll
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\bin\Debug\netcoreapp3.1\Porotos.pdb
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\obj\Debug\netcoreapp3.1\Porotos.dll
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\obj\Debug\netcoreapp3.1\Porotos.pdb
+D:\Unicato\Semestres\2-2021\Sistemas inteligentes\Porotos\Porotos\obj\Debug\netcoreapp3.1\Porotos.genruntimeconfig.cache
